@@ -1,0 +1,121 @@
+/* a minimalist set of CSS resets */
+
+
+/* adjust typography defaults */
+body {
+  background-color: #d8e5f2;
+  color: black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1{
+  font-family: verdana, arial, sans-serif;
+}
+
+button{
+  padding: 15px;
+  border-radius: 5px;
+  background-color: slategrey;
+  color: white;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden{
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+  
+}
+#button1:active, #button1.lit{
+  background: limegreen;
+  
+}
+
+#button2 {
+  background: lightblue;
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+}
+#button2:active, #button2.lit{
+  background: royalblue;
+}
+
+#button3 {
+  background: pink;
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+}
+#button3:active, #button3.lit{
+  background: #ff5c5c;
+}
+
+#button4 {
+  background: lightyellow;
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+}
+#button4:active, #button4.lit{
+  background:  #fcf75e;
+}
+
+#button5 {
+  background: thistle;
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+}
+#button5:active, #button5.lit{
+  background: mediumpurple;
+}
+
+#button6 {
+  background: peachpuff; 
+  box-shadow: 2px 2px black;
+  color: gray;
+  text-shadow: 2px 2px black;
+  margin: 3em;
+  font-family: verdana, arial, sans-serif;
+  font-size: 100px;
+  line-height: 1.5;
+}
+#button6:active, #button6.lit{
+  background:  #ff8243;
+}
+
+
+
