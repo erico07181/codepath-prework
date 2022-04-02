@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 ![x] https://github.com/NesquickRabbit1/codepath-prework/blob/main/Prework-losing.gif
+
 ![x] https://github.com/NesquickRabbit1/codepath-prework/blob/main/Prework-winning.gif
 ![](gif3-link-here)
 ![](gif4-link-here)
