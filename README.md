@@ -40,9 +40,10 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![x] (https://github.com/NesquickRabbit1/codepath-prework/blob/main/Prework-losing.gif)
+![Winning! And displaying the keyboard implementation!] ![Prework-winning](https://user-images.githubusercontent.com/49778407/161368714-7c90f5c9-ef4c-4023-b7e5-09dc6c68f7e0.gif)
 
-![x] (https://github.com/NesquickRabbit1/codepath-prework/blob/main/Prework-winning.gif)
+![Losing :(] ![Prework-losing](https://user-images.githubusercontent.com/49778407/161368732-177e0141-8a4c-4ba3-8c15-21f75743b99b.gif)
+
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
