@@ -7,6 +7,7 @@ Submitted by: Enrique Rico
 Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/carnation-butter-kettledrum
+Link to actual site: https://carnation-butter-kettledrum.glitch.me
 
 ## Required Functionality
 
